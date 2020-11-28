@@ -1,0 +1,11 @@
+.general-button {
+  padding: 1em;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  border-block: black;
+  font-size: medium;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+}
