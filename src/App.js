@@ -1,4 +1,4 @@
-import React, { useState, useEffect, Fragment } from 'react';
+import React, { useState, useEffect } from 'react';
 import MTip from './components/mTip/mTip';
 import web3 from './api';
 import { useWallet } from 'use-wallet';
